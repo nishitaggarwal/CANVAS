@@ -1,4 +1,4 @@
-# synchronousBallMovement
-Ball moving synchronously
+# CANVAS
+
 
  https://nishitaggarwal.github.io/CANVAS/.
